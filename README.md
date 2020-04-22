@@ -8,5 +8,5 @@ Creating a single layer feed forward neural network according to Rahimi's random
 
 
 
-You can reach their paper on the link below:
+You can reach their paper on the link:
 https://papers.nips.cc/paper/3182-random-features-for-large-scale-kernel-machines.pdf
