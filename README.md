@@ -13,7 +13,8 @@ ML_banana_dataset will be used!
 * Softmax cross entropy loss will be used
 
 
-#Reference:
+# Reference:
+
 A. Rahimi and B. Recht. Random features for large-scale kernel machines. Advances in
 Neural Information Processing Systems, pages 1177–1184, 2007.
 
