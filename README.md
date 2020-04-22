@@ -1,5 +1,5 @@
 # kernel_trick
-Creating a single layer feed forward neural network according to Rahimi's randomized kernel transformation.
+Creating a single layer feed forward neural network by using Rahimi's randomized kernel transformation.
 
 
 ML_banana_dataset will be used!
